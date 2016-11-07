@@ -30,7 +30,7 @@ StringScramble("rkqodlw", "world");
 
 ## Motivation
 
-stay sharp
+staying sharp
 
 ## Tests
 ```
